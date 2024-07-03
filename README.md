@@ -1,4 +1,4 @@
-# Control Plane Repo Template
+# Demos for AI talks at CNSECCON24 and FINOS OSFF London 24
 
 - [ROADMAP.md](ROADMAP.md)
 - [CHANGELOG.md](CHANGELOG.md)
